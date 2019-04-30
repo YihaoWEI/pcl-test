@@ -1,0 +1,43 @@
+# Eclipse
+.project
+.cproject
+.settings
+
+# Intellij
+.idea
+*.iml
+
+# Android Studio
+.externalNativeBuild
+
+# Visual Studio
+.vs
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+build/
+build_x32/
+build_x64/
+build_linux/
+
+# Gradle
+.gradle
+local.properties
+build
+Build
+
+# Mac OSX
+.DS_Store
+._.DS_Store
+
+# Windows
+Thumbs.db
+
+# Java
+*.class
+
+# CMake
+CMakeLocal.txt
